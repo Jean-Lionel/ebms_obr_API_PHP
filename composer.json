@@ -1,0 +1,17 @@
+{
+    "name": "jean-lionel/obr_api",
+    "autoload": {
+        "psr-4": {
+            "JeanLionel\\ObrApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jean-Lionel",
+            "email": "nijeanlionel@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
